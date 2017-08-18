@@ -1,0 +1,16 @@
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Sol', '0');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Brahma Extra', '0');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Budweiser', '0');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Skol', '0');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Stella Artois', '0');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Heineken', '0');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Jacobinho', '1');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Del Valle', '1');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Água', '2');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Água c/ Gás', '2');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Água Tônica', '2');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Coca-Cola', '3');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Sprite', '3');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Fanta', '3');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Guaraná Kuat', '3');
+INSERT INTO drink (dtReg, description, type) VALUES (NOW(), 'Guaraná Antarctica', '3');
